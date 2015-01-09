@@ -1,0 +1,21 @@
+{
+  "name": "borgun-extract",
+  "version": "0.1.0",
+  "description": "Extract amounts from Borgun PDF statements through HTML tables to CSV.",
+  "main": "extract.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pdf",
+    "csv",
+    "tables",
+    "extract",
+    "convert",
+    "statements",
+    "bank",
+    "money"
+  ],
+  "author": "Haralan Dobrev",
+  "license": "MIT"
+}
