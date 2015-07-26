@@ -17,5 +17,8 @@
     "money"
   ],
   "author": "Haralan Dobrev",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.18.0"
+  }
 }
